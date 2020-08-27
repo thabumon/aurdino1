@@ -1,0 +1,13 @@
+
+
+Components                                                  Price(Rupees)
+
+1. Arduino  UNO                                                  400-500
+
+2.  IR sensor                                                    50-150
+
+3.  LED   (3mm-5mm)                                                1-5
+
+4.  Jumper Wires (per piece)                                       1-5
+
+
